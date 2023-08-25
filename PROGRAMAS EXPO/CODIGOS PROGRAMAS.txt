@@ -1,0 +1,8 @@
+1.-SOLID  PRINCIPLES
+https://youtu.be/BSlzgruen4Q
+2.-INTRODUCCION A PATRONES DE DISEÑO
+https://youtu.be/4NLOyV5rVAc
+3.-SINGLENTON-TEMPLATE-STRATEGY
+https://youtu.be/c9nEgOj6CJc
+4.-MODULARIDAD
+https://youtu.be/_GlHajdfbeI
